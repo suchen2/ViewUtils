@@ -25,6 +25,7 @@ public class MainActivity extends Activity {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		ViewUtils.inject(this);
+		Log.d("程序员2","修改了一行代码");
 	}
 
 	@OnClick({R.id.btn1,R.id.btn2})
