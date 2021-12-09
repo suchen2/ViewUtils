@@ -1,7 +1,7 @@
 # ViewUtils
 
-##示例代码
-
+## 示例代码
+```java
 package com.it.hei;
 
 import com.example.myviewutils.OnClick;
@@ -47,3 +47,4 @@ public class MainActivity extends Activity {
 	}
 	
 }
+```
